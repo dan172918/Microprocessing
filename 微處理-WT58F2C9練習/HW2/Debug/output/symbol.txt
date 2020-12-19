@@ -1,0 +1,122 @@
+00000000 W _RELAX_END_
+00000000 T _nds32_vector_00
+00000010 W _nds32_vector_01	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid01.S:40
+00000020 W _nds32_vector_02	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid02.S:40
+00000030 W _nds32_vector_03	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid03.S:40
+00000040 W _nds32_vector_04	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid04.S:40
+00000050 W _nds32_vector_05	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid05.S:40
+00000060 W _nds32_vector_06	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid06.S:40
+00000070 W _nds32_vector_07	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid07.S:40
+00000080 T _nds32_vector_08
+00000090 T _nds32_vector_09
+000000a0 T _nds32_vector_10
+000000b0 W _nds32_vector_11	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid11.S:40
+000000c0 W _nds32_vector_12	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid12.S:40
+000000d0 W _nds32_vector_13	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid13.S:40
+000000e0 W _nds32_vector_14	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/vec_vid14.S:40
+000000f0 T _nds32_vector_15
+00000100 R _nds32_nmih
+00000104 R _nds32_wrh
+00000108 R _nds32_jmptbl_00
+0000010c V _nds32_jmptbl_01
+00000110 V _nds32_jmptbl_02
+00000114 V _nds32_jmptbl_03
+00000118 V _nds32_jmptbl_04
+0000011c V _nds32_jmptbl_05
+00000120 V _nds32_jmptbl_06
+00000124 V _nds32_jmptbl_07
+00000128 R _nds32_jmptbl_08
+0000012c R _nds32_jmptbl_09
+00000130 R _nds32_jmptbl_10
+00000134 V _nds32_jmptbl_11
+00000138 V _nds32_jmptbl_12
+0000013c V _nds32_jmptbl_13
+00000140 V _nds32_jmptbl_14
+00000144 R _nds32_jmptbl_15
+00000148 T _nds32_e_sa_nr	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/excp_isr.S:101
+0000018a T _nds32_i_ps_nn	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/intr_isr.S:116
+000001a0 T _nds32_reset	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/reset.S:36
+000001a0 T _start	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/isr-library/reset.S:36
+00000220 t Default_Handler	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:17
+00000220 W HW2_ISR	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:19
+00000220 W HW3_ISR	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:19
+00000220 W HW4_ISR	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:19
+00000220 W HW5_ISR	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:19
+00000220 W error_exception_handler	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:19
+00000220 W tlb_exception_handler	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:19
+00000222 T __null_function	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:22
+00000224 T __c_init	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:26
+00000268 T __cpu_init	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-default.c:49
+0000029a T _nds32_init_mem	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-soc.c:19
+000002aa T __soc_init	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../init-soc.c:26
+000002ac T nmi_handler	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:5
+000002b4 T GIE_ENABLE	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:9
+000002be T GIE_DISABLE	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:14
+000002cc T gen_swi	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:21
+000002ec T initIntr_standby	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:31
+000002f4 T clear_swi	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:40
+00000308 T reset_handler	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:59
+00000322 T syscall_handler	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:71
+0000032c T HW0_ISR	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:85
+0000032e T HW1_ISR	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:94
+00000338 T SW0_ISR	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../interrupt-c-ext.c:102
+00000350 T delay1	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:14
+0000036c T DRV_EnableHWInt	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:40
+00000382 T DRV_BlockIntDisable	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:50
+000003cc T DRV_IntInitial	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:61
+000003de T DRV_SysXtal	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:76
+00000402 T OS_PowerOnDriverInitial	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:102
+00000416 T DRV_PutChar	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:188
+00000474 T DRV_PutStr	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:210
+000004a6 T DRV_IntToStr	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:225
+0000066c T DRV_Printf	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:311
+00000840 T main	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:359
+00000aa0 t checkint
+00000afe T pow
+000012fa T __gf_dpfabs
+000012fa T fabs
+00001308 t with_errno
+00001318 t xflow
+00001342 T __math_uflow
+00001350 T __math_may_uflow
+0000135e T __math_oflow
+0000136c T __math_divzero
+00001396 T __math_invalid
+000013be T __math_check_uflow
+000013da T __math_check_oflow
+000013f4 T __fpclassifyd
+00001450 T __subdf3	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:1845
+00001456 T __adddf3	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:1852
+00001620 T __muldf3	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:2167
+0000183c T __divdf3	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:2519
+00001b34 T __fixunsdfsi	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:3931
+00001b80 T __floatsidf	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:4192
+00001be0 T __floatunsidf	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:4567
+00001c24 T __gedf2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5005
+00001c24 T __gtdf2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5005
+00001c28 T __cmpdf2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5051
+00001c28 T __eqdf2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5051
+00001c28 T __ledf2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5051
+00001c28 T __ltdf2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5051
+00001c28 T __nedf2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5051
+00001c94 T __lshrdi3	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/libgcc2.c:403
+00001cbc T __ashldi3	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/libgcc2.c:431
+00001ce4 T __clzsi2	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib2src-mculib/_clzsi2.S:28
+00001d04 T umul_ppmm	/home/sqa/build-bspv423/build-v3m/source-packages/gcc-4.9.4-bsp-v4_2_0-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:860
+00001d34 T __errno
+00001d3c T memcpy
+00001d8c T memset
+00001ec0 R __pow_log_data
+00002f08 R __exp_data
+00003778 A __data_lmastart
+00100200 D __data_start
+00100200 D _impure_ptr
+00100204 B _NDS32_REENT__errno
+00100204 B __bss_start
+00100204 B _edata
+00100204 B _lmaend
+00100208 b impure_data
+0010020c B u8TxdBuf	/cygdrive/c/Users/danie/Desktop/WT58F2C9_LED/Debug/../main.c:186
+00100210 W _SDA_BASE_
+00100224 B _end
+00103000 A _stack

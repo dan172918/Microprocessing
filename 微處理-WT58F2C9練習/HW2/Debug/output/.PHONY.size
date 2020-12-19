@@ -1,0 +1,2 @@
+   text (code + rodata)	   data	    bss	    dec	    hex	filename
+  14200 (7568 +   6632)	      4	     32	  14236	   379c	WT58F2C9_LED.adx
